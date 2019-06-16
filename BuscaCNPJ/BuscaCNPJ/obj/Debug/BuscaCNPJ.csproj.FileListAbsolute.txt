@@ -77,3 +77,4 @@ C:\Users\gmnzf\Documents\GitHub\BuscaCNPJ\BuscaCNPJ\BuscaCNPJ\bin\Microsoft.Code
 C:\Users\gmnzf\Documents\GitHub\BuscaCNPJ\BuscaCNPJ\BuscaCNPJ\obj\Debug\BuscaCNPJ.csproj.CopyComplete
 C:\Users\gmnzf\Documents\GitHub\BuscaCNPJ\BuscaCNPJ\BuscaCNPJ\obj\Debug\BuscaCNPJ.dll
 C:\Users\gmnzf\Documents\GitHub\BuscaCNPJ\BuscaCNPJ\BuscaCNPJ\obj\Debug\BuscaCNPJ.pdb
+C:\Users\gmnzf\Documents\GitHub\BuscaCNPJ\BuscaCNPJ\BuscaCNPJ\obj\Debug\BuscaCNPJ.csprojAssemblyReference.cache
