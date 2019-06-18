@@ -78,3 +78,5 @@ C:\Users\gmnzf\Documents\GitHub\BuscaCNPJ\BuscaCNPJ\BuscaCNPJ\obj\Debug\BuscaCNP
 C:\Users\gmnzf\Documents\GitHub\BuscaCNPJ\BuscaCNPJ\BuscaCNPJ\obj\Debug\BuscaCNPJ.dll
 C:\Users\gmnzf\Documents\GitHub\BuscaCNPJ\BuscaCNPJ\BuscaCNPJ\obj\Debug\BuscaCNPJ.pdb
 C:\Users\gmnzf\Documents\GitHub\BuscaCNPJ\BuscaCNPJ\BuscaCNPJ\obj\Debug\BuscaCNPJ.csprojAssemblyReference.cache
+C:\Users\gmnzf\Documents\GitHub\BuscaCNPJ\BuscaCNPJ\BuscaCNPJ\bin\System.Net.Http.Formatting.dll
+C:\Users\gmnzf\Documents\GitHub\BuscaCNPJ\BuscaCNPJ\BuscaCNPJ\bin\System.Net.Http.Formatting.xml
